@@ -13,9 +13,9 @@
 *.a
 
 # Build dir
-build*
-debug_build
-release_build
+/build*
+/debug_build
+/release_build
 /bin
 /lib
 /install
