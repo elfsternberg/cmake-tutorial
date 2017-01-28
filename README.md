@@ -24,7 +24,9 @@ might be able to guess from the variable names.
 License
 -------
 
-The tutorial is under a Creative Commons CC 4.0/BY.  Works for me:
+The tutorial is under a
+[Creative Commons CC 4.0/BY](https://creativecommons.org/licenses/by/4.0/).
+Works for me:
 
 > You are free to:
 >
